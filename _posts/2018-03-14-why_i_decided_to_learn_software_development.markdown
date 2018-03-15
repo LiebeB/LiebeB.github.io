@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Why I decided to learn software development..."
-date:       2018-03-15 02:15:44 +0000
+date:       2018-03-14 22:15:44 -0400
 permalink:  why_i_decided_to_learn_software_development
 ---
 
 
-A few years ago, I delved into the coding realm. I was volunteering at a book festival in Cape Town and I got involved with the Wikimedia ZA organisation. I started to look into coding and programming... I found that I was interested in UXD and Business Analysis. 
+A few years ago, I delved into the coding realm. I was volunteering at a book festival in Cape Town and I got involved with the Wikimedia ZA organisation. I started to look into coding and programming and found that I was interested in UXD and Business Analysis. 
 
-I decided at that point to stay in education. I had been teaching accounting and business studies in South Africa. My next job would land me in China, where I taught economics in Xi'an (where the Terracotta army is) and then in Nanjing (which is close to Shanghai). 
+I decided at that point to stay in education. I had been teaching accounting and business studies in South Africa. My next job would land me in China, where I first taught economics in Xi'an (where the Terracotta army is) and then in Nanjing (which is close to Shanghai). 
 
 As much as I enjoy Nanjing and working with children, I felt as though I needed to do something else. I want to work in an environment where creative problem-solving and critical thinking skills are welcomed. I am sure there are schools where those features are incorporated to establish a conducive learning environment. I have worked at five schools, and I am yet to find such an organisation. My hope for the future is that more schools will be created to develop students holistically. Life is more than exam scores. 
 
